@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DataRockMyWorld
-- 👀 I’m interested in Data Analysis
-- 💞️ I’m looking to collaborate on any R Project
-- 📫 How to reach me juelzghg@gmail.com
+- 👀 I’m interested in Software Enginnering
+- 💞️ I’m open to collaborate on any novel project
+- 📫 How to reach me: juelzghg@gmail.com
 
 <!---
 DataRockMyWorld/DataRockMyWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
